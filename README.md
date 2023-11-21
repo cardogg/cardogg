@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cardogg&label=Profile%20views&color=0e75b6&style=flat" alt="cardogg" /> </p>
 
-- 🔭 I’m currently working on **a tamagotchi game**
+- 🔭 I’m currently working on **a arcade endless runner**
 
 - 🌱 I’m currently learning **React.js and Unreal**
 
