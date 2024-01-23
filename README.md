@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cardogg&label=Profile%20views&color=0e75b6&style=flat" alt="cardogg" /> </p>
 
-- 🔭 I’m currently working on **a arcade endless runner**
+- 🔭 I’m currently working on **RPG**
 
-- 🌱 I’m currently learning **React.js and Unreal**
+- 🌱 I’m currently learning **Unreal**
 
 - 💬 Ask me about **C, C++, C#, or anything Unity related**
 
